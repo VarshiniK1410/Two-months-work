@@ -1,0 +1,41 @@
+body{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+.content{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+    width: 530px;
+    padding: 50px;
+}
+button{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.b2{
+    background-color: black;
+    color: white;
+}
+.b1{
+    padding-right: 180px;
+    justify-content: end;
+    text-align: right;
+}
+.check{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+.box{
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    margin-bottom: 20px;
+}
